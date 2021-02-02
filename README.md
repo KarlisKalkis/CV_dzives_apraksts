@@ -16,10 +16,12 @@ Hobiji
    - laika pavadīšana ārā
    - vasaras aktivitātes
 
-Šeit[Komandas_saite_kopā_ar_attēlu](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.fsmetta.lv%2F&psig=AOvVaw2MPCuDo3vT_lcvpWSCYuXX&ust=1612347711521000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD1urf9yu4CFQAAAAAdAAAAABAD)
+
 
 Šodienas stundu saraksts
 ------------------------------
+
+Tabula
 Stunda pēc kārtas|Stunda
 -----------------|------
 1.| Brīvstunda
@@ -42,8 +44,52 @@ Emoji ievietošana
 
 Attēlu ievietošana
 ===================
+[java](https://www.pinterest.com/pin/263108803219154734/)
 
-<img src= "C:\Users\Gunars\Downloads\attels.jpg">
+[kaķis](attels.jpg)
+
+
+Horizontāla līnija
+
+======================
+
+python skripts
+===============
+
+
+'''Programma izvada atzīmi vārdiski.
+Lietotājam ir jāievada atzīme ballēs.
+Programma izvada uzreiz vārdiski atzīmi.
+
+Izveidoja: Kārlis Kaļķis DP1-4
+'''
+
+
+atz = float(input('Ievadiet iegūto atzīmi: '))
+
+if atz <= 3:
+    print('Negatīvs vērtējums')
+elif atz == 4:
+    print('Gandrīz vidēji')
+elif atz == 5:
+    print('Vidēji')
+elif atz == 6 :
+    print('Gandrīz labi')
+elif atz == 7:
+    print('Labi')
+elif atz == 8:
+    print('Ļoti labi')
+elif atz == 9:
+    print(' Teicami')
+elif atz == 10 :
+    print('Izcili')
+else:
+    print('Ir ievadīts nederīga atzīme')
+
+
+
+
+
 
 
 
