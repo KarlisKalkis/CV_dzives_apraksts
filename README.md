@@ -43,7 +43,7 @@ Emoji ievietošana
 Attēlu ievietošana
 ===================
 
-<img src= "C:\Users\Gunars\Downloads\Sie-atteli-spes-uzlabot-1.jpg">
+<img src= "C:\Users\Gunars\Downloads\attels.jpg">
 
 
 
