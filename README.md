@@ -50,8 +50,9 @@ Attēlu ievietošana
 
 
 Horizontāla līnija
+=====================
 
-======================
+
 
 python skripts
 ===============
