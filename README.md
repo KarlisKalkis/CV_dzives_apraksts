@@ -40,6 +40,12 @@ Emoji ievietošana
 =================
 :smile:
 
+Attēlu ievietošana
+===================
+
+<img src= "C:\Users\Gunars\Downloads\Sie-atteli-spes-uzlabot-1.jpg">
+
+
 
 
 
