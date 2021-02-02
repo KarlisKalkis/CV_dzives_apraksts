@@ -5,7 +5,7 @@ Nedaudz par mani
 ---------------------------------------------------------------------------------------------------------------
 Mani sauc Kārlis Kaļķis 
 Man ir 16 gadi
-Es esmu dzīvojjis un mācījies visu savu dzīvi Rīgā.
+Es esmu dzīvojis un mācījies visu savu dzīvi Rīgā.
 
 
 
