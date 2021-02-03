@@ -40,7 +40,7 @@ Stunda pēc kārtas|Stunda
 
 Emoji ievietošana
 =================
-:smile:
+:smile_cat:
 
 Attēlu ievietošana
 ===================
